@@ -8,7 +8,7 @@ body{
     justify-content: center;
     flex-direction: column;
 }
-h1{
-    color: Red;
-    text-shadow: 2px;
+.heading{
+    color: red;
+    text-shadow: rgb(250, 250, 250);
 }
